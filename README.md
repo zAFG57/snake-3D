@@ -1,2 +1,8 @@
 # snake-3D
-c'est un jeux de snake classique mais cette fois dans un monde en trois dimention. Ce jeux est coder en java a l'aide de processing pour l'affichage.
+> voici un jeux de snake en trois dimmentions.
+> x, y, et Z
+> vous pouvez appliquer une rotation au monde en cliquant et en glissant avec votre souris affin de pouvoir tout les détails.
+> si vous vous êtes perdu avec les déplacement de souris, vous n'avez qu'a clicker deux fois sur la fenêttre pour revenir à la perspective de base.
+
+> vous pouvez controlez le snake avec les touche classique Z Q S D pour vous déplacer devant, derière a gauche et a droite (sur l'axe X et Y)
+> et vous pouvez controller le snake avec A pour allez vers le haut et E pour allez vers le bas (sur l'axe Z).
