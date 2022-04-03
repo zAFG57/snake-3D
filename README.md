@@ -9,3 +9,6 @@
 
 > le jeux est codé en java en utilisant processing pour le rendu. 
 > pour l'instant, le jeux ne comporte pas de menu mais se menu sera ma prochaine contribution à ce projet.
+
+
+vous pouvez télécharger le jeux en cliquant [ici](https://ludovic.go.yj.fr/portfolio/snake_3d.rar)
