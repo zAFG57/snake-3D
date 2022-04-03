@@ -14,4 +14,4 @@
 vous pouvez télécharger le jeux compiler en .exe en cliquant [ici](https://ludovic.go.yj.fr/portfolio/snake_3d.rar)
 
 
-https://youtu.be/0Gaxko2MdDc 
+[lien de la vidéo de démonstration](https://youtu.be/0Gaxko2MdDc) 
